@@ -1,5 +1,5 @@
 # Stock Prediction
-Try to predict the stock prices using news articles and past data.
+Attempting to predict the stock prices using news articles and past data.
 
 Using Three different Machine Learning Models
 
