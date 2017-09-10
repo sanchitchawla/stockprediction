@@ -1,7 +1,8 @@
 # Stock Prediction
 Try to predict the stock prices using news articles and past data.
 
-Using Two different Machine Learning Models
+Using Three different Machine Learning Models
 
 - Random Forest
+- Logistic Regression
 - Neural Network
